@@ -261,6 +261,10 @@ msgstr "<0/> updated the group name to <1>{0}</1>"
 msgid "<0>Be careful!</0><1/>This is not the same as the link that was displayed:"
 msgstr "<0>Be careful!</0><1/>This is not the same as the link that was displayed:"
 
+#: src/interface/Discover.tsx
+msgid "1 channel"
+msgstr ""
+
 #: components/modal/modals/BanMember.tsx
 msgid "1 day"
 msgstr "1 day"
@@ -421,6 +425,7 @@ msgstr "Affects all roles and users"
 
 #: src/interface/Friends.tsx
 #: src/interface/Friends.tsx
+#: src/interface/Discover.tsx
 msgid "All"
 msgstr "All"
 
@@ -595,6 +600,14 @@ msgstr "Blossom"
 msgid "Bot"
 msgstr "Deckhand"
 
+#: src/interface/Discover.tsx
+msgid "Bots"
+msgstr ""
+
+#: src/interface/Home.tsx
+msgid "Browse public servers, themes, and new communities."
+msgstr ""
+
 #: components/app/interface/settings/user/voice/VoiceProcessingOptions.tsx
 msgid "Browser"
 msgstr "Browser"
@@ -746,6 +759,10 @@ msgstr "Channel Settings"
 msgid "Channel Slowmode"
 msgstr "Channel Slowmode"
 
+#: src/interface/Discover.tsx
+msgid "channels"
+msgstr ""
+
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Channels"
 msgstr "Oceans"
@@ -757,6 +774,10 @@ msgstr "Chat Input"
 #: components/auth/src/flows/FlowCheck.tsx
 msgid "Check your mail!"
 msgstr "Check yer mail!"
+
+#: src/interface/Discover.tsx
+msgid "Chill"
+msgstr ""
 
 #: components/auth/src/flows/FlowLogin.tsx
 msgid "Choose a username"
@@ -837,6 +858,14 @@ msgstr "Colours"
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Comfort"
 msgstr "Comfort"
+
+#: src/interface/Discover.tsx
+msgid "Communities on Foxly"
+msgstr ""
+
+#: src/interface/Discover.tsx
+msgid "Community"
+msgstr ""
 
 #: components/auth/src/AuthPage.tsx
 #: components/app/interface/settings/user/Legal.tsx
@@ -1085,6 +1114,10 @@ msgstr "Create Webhook"
 msgid "Created <0/>"
 msgstr "Created <0/>"
 
+#: src/interface/Discover.tsx
+msgid "Creative"
+msgstr ""
+
 #: components/modal/modals/EditUsername.tsx
 #: components/modal/modals/EditPassword.tsx
 #: components/modal/modals/EditEmail.tsx
@@ -1237,6 +1270,10 @@ msgstr "Developer Documentation"
 msgid "Developer Options"
 msgstr "Developer Options"
 
+#: src/interface/Discover.tsx
+msgid "Development"
+msgstr ""
+
 #: src/interface/navigation/channels/HomeSidebar.tsx
 msgid "Direct Messages"
 msgstr "Direct Messages"
@@ -1266,8 +1303,15 @@ msgid "Discord RPC"
 msgstr "Discord RPC"
 
 #: src/interface/Discover.tsx
-#: src/interface/Discover.tsx
+msgid "Discover"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Discover Foxly"
+msgstr ""
+
+#: src/interface/Discover.tsx
+msgid "Discover Servers"
 msgstr ""
 
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
@@ -1281,6 +1325,10 @@ msgstr "Display Name"
 #: src/interface/navigation/servers/UserMenu.tsx
 msgid "Do Not Disturb"
 msgstr "In Th' Cabins"
+
+#: src/interface/Discover.tsx
+msgid "Do you want to join this server?"
+msgstr ""
 
 #: components/modal/modals/ScreenShareSettings.tsx
 msgid "Don't ask me again"
@@ -1575,9 +1623,14 @@ msgid "Foxly will start in the system tray."
 msgstr "Foxly will start in the system tray."
 
 #: src/interface/Friends.tsx
+#: src/interface/Discover.tsx
 #: src/interface/navigation/channels/HomeSidebar.tsx
 msgid "Friends"
 msgstr "Crewmates"
+
+#: src/interface/Discover.tsx
+msgid "From one community to another, there is a place for everyone."
+msgstr ""
 
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Frost"
@@ -1586,6 +1639,10 @@ msgstr "Frost"
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Fruit Salad"
 msgstr "Fruit Salad"
+
+#: src/interface/Discover.tsx
+msgid "Gaming"
+msgstr ""
 
 #: components/app/interface/settings/user/bots/ViewBot.tsx
 msgid "Generate a new token if it gets lost or compromised"
@@ -1679,6 +1736,10 @@ msgstr "Hear other people and see their video"
 msgid "Hello!"
 msgstr "Ahoy!"
 
+#: components/app/interface/settings/UserSettings.tsx
+msgid "Help translate Foxly"
+msgstr ""
+
 #. placeholder {0}: code()
 #: components/modal/modals/CreateInvite.tsx
 msgid "Here is your new invite code: <0>{0}</0>"
@@ -1698,6 +1759,10 @@ msgstr "Hide Others"
 
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Hide text preview"
+msgstr ""
+
+#: src/interface/Discover.tsx
+msgid "high activity"
 msgstr ""
 
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
@@ -1811,6 +1876,10 @@ msgstr "Join"
 msgid "Join a server"
 msgstr "Join a server"
 
+#: src/interface/Discover.tsx
+msgid "Join server"
+msgstr ""
+
 #: src/interface/Home.tsx
 msgid "Join the Foxly Lounge"
 msgstr "Join the Foxly Lounge"
@@ -1869,6 +1938,10 @@ msgstr "Lagoon"
 #: components/app/interface/settings/user/Sync.tsx
 msgid "Language"
 msgstr "Tongue"
+
+#: components/app/interface/settings/user/Language.tsx
+msgid "Language 100% verified"
+msgstr ""
 
 #: components/app/interface/settings/user/Sync.tsx
 msgid "Last sync <0/>"
@@ -1952,6 +2025,10 @@ msgstr "Login"
 msgid "Logs you out of all sessions except this device."
 msgstr "Logs you out of all sessions except this device."
 
+#: src/interface/Discover.tsx
+msgid "low activity"
+msgstr ""
+
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Make Foxly feel like your place: choose colours, spacing, fonts, and a background that fits your style."
 msgstr "Make Foxly feel like your place: choose colours, spacing, fonts, and a background that fits your style."
@@ -2018,6 +2095,10 @@ msgstr "Mark this channel as mature?"
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Masquerade"
 msgstr "Be lyin'"
+
+#: src/interface/Discover.tsx
+msgid "medium activity"
+msgstr ""
 
 #: components/app/interface/settings/ServerSettings.tsx
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
@@ -2135,6 +2216,10 @@ msgstr "Move members between voice channels"
 msgid "Multi-factor authentication is already enabled for this account."
 msgstr "Multi-factor authentication is already enabled for this account."
 
+#: src/interface/Discover.tsx
+msgid "Music"
+msgstr ""
+
 #: components/app/menus/UserContextMenu.tsx
 msgid "Mute"
 msgstr "Mute"
@@ -2221,9 +2306,17 @@ msgstr "New to the server"
 msgid "Nickname"
 msgstr "Alias"
 
+#: src/interface/Discover.tsx
+msgid "No"
+msgstr ""
+
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsOverview.tsx
 msgid "No permissions set yet"
 msgstr "No permissions set yet"
+
+#: src/interface/Discover.tsx
+msgid "No servers found"
+msgstr ""
 
 #: src/interface/Friends.tsx
 msgid "Nobody here right now!"
@@ -2438,6 +2531,10 @@ msgstr ""
 msgid "Plugin system"
 msgstr "Plugin system"
 
+#: src/interface/Discover.tsx
+msgid "Popular tags:"
+msgstr ""
+
 #: components/app/interface/settings/user/voice/VoiceProcessingOptions.tsx
 msgid "Powered by RNNoise"
 msgstr "Powered by RNNoise"
@@ -2450,6 +2547,10 @@ msgstr "Prefer clearer text and stronger surfaces"
 #: components/app/interface/settings/user/Advanced.tsx
 msgid "Prefer hardware acceleration"
 msgstr "Prefer hardware acceleration"
+
+#: src/interface/Discover.tsx
+msgid "Press ENTER to search"
+msgstr ""
 
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Prism"
@@ -2800,9 +2901,17 @@ msgstr "Search for users..."
 msgid "Search messages..."
 msgstr "Search messages..."
 
+#: src/interface/Discover.tsx
+msgid "Search servers..."
+msgstr ""
+
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Second background colour"
 msgstr "Second background colour"
+
+#: src/interface/Home.tsx
+msgid "See the newest features, fixes, and polish in Foxly."
+msgstr ""
 
 #: components/app/interface/settings/user/voice/VoiceInputOptions.tsx
 msgid "Select audio input"
@@ -2928,6 +3037,10 @@ msgstr "Server Roles"
 #: components/ui/components/features/voice/callCard/VoiceCallCardStatus.tsx
 msgid "Server: {server}"
 msgstr "Server: {server}"
+
+#: src/interface/Discover.tsx
+msgid "Servers"
+msgstr ""
 
 #: components/app/interface/settings/UserSettings.tsx
 msgid "Sessions"
@@ -3170,13 +3283,13 @@ msgstr "The file \\\"{0}\\\" ({fileSize}) exceeds the maximum size limit of {max
 msgid "The password is too short."
 msgstr "The password is too short."
 
-#: src/interface/Discover.tsx
-msgid "The server catalog is not available yet. You can still join servers using a Foxly invite link."
-msgstr ""
-
 #: components/app/interface/settings/user/Sync.tsx
 msgid "Theme"
 msgstr "Theme"
+
+#: src/interface/Discover.tsx
+msgid "Themes"
+msgstr ""
 
 #: components/app/interface/settings/user/Advanced.tsx
 msgid "These features are unfinished and may change, break, or disappear between versions."
@@ -3247,6 +3360,11 @@ msgstr "This message is empty and has not been sent."
 msgid "This password has previously appeared in security leaks, please use another password."
 msgstr "This password has previously appeared in security leaks, please use another password."
 
+#: src/interface/Discover.tsx
+#: src/interface/Discover.tsx
+msgid "This server does not have a description yet."
+msgstr ""
+
 #: components/app/interface/settings/server/Overview.tsx
 msgid "This server is about..."
 msgstr "This server is about..."
@@ -3295,9 +3413,17 @@ msgstr "Tonal Spot"
 msgid "Traditional (DD/MM/YYYY)"
 msgstr "Traditional (DD/MM/YYYY)"
 
+#: components/app/interface/settings/user/Language.tsx
+msgid "Translation not fully verified yet"
+msgstr ""
+
 #: components/ui/components/features/messaging/composition/picker/GifPicker.tsx
 msgid "Trending GIFs"
 msgstr "Trending GIFs"
+
+#: src/interface/Discover.tsx
+msgid "Try another search phrase or clear the selected tag."
+msgstr ""
 
 #: components/app/interface/settings/user/appearance/AppearanceMenu.tsx
 msgid "Ultraviolet"
@@ -3468,6 +3594,7 @@ msgstr "See 'em 'Covery Codes"
 msgid "Viewing older messages"
 msgstr "Viewin' older messages"
 
+#: src/interface/Discover.tsx
 #: components/app/interface/settings/UserSettings.tsx
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Voice"
@@ -3531,6 +3658,10 @@ msgstr "Ahoy!"
 msgid "What's new"
 msgstr "What's new"
 
+#: src/interface/Home.tsx
+msgid "What's new in Foxly"
+msgstr ""
+
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Whether other users can edit these settings"
 msgstr "Whether other users can edit these settings"
@@ -3547,6 +3678,10 @@ msgstr "Would you like to create a new group or server?"
 #: components/modal/modals/CreateOrJoinServer.tsx
 msgid "Would you like to create a new server or join an existing one?"
 msgstr "Would you like to create a new server or join an existing one?"
+
+#: src/interface/Discover.tsx
+msgid "Yes, join"
+msgstr ""
 
 #: components/app/interface/settings/user/bots/MyBots.tsx
 msgid "You agree that your bot is subject to the Acceptable Usage Policy."
